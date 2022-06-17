@@ -5,7 +5,7 @@ authors = ["rdodd"]
 edition = "2018"
 
 [dependencies]
-diesel = { version = "1.4.2", features = ["postgres"] }
+diesel = { version = "1.4.6", features = ["postgres"] }
 rocket = "0.4.2"
 
 [dependencies.rocket_contrib]
